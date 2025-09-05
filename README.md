@@ -1,2 +1,2 @@
-# Estudo-de-L-gica
+# Estudo-de-Logica
 Estudos de lógica de programação. 
